@@ -161,7 +161,7 @@ body {
     transform:translate(-50%,-50%);
   }
   .photo1>img{
-    width: 80%;
+    width: auto;
     object-fit:cover;
     height: auto;
   }
