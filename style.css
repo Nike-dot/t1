@@ -162,5 +162,6 @@ body {
   }
   .photo1>img{
     width: 80%;
+    object-fit:cover;
     height: auto;
   }
