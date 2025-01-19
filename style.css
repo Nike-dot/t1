@@ -155,7 +155,10 @@ body {
     width: 30%;
     height: auto;
     display: block;
-    margin-bottom: 10px; /* Adjust the spacing between the images */
+    margin-bottom: 10px;
+    margin-left:50%;
+    margin-right:50%;
+    transform:translate(-50%,-50%);
   }
   .photo1>img{
     width: 80%;
